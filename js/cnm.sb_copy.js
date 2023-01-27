@@ -14,6 +14,7 @@
 				});
 			}
 		}
+}
 
 		//function loop() {
 			//var startTime = new Date();
